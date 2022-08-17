@@ -1,1 +1,2 @@
 add 把变更录入到索引
+issue1 commit 记录所有状态
