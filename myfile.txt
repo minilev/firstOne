@@ -1,3 +1,4 @@
 add 把变更录入到索引
 issue1 commit 记录所有状态
 issue2 pull 取得远端库内容
+我又来了
