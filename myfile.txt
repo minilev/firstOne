@@ -1,6 +1,4 @@
 add 把变更录入到索引
-<<<<<<< HEAD
 issue1 commit 记录所有状态
-=======
 issue2 pull 取得远端库内容
->>>>>>> aa0c7fa (添加pull说明)
+
